@@ -19,3 +19,5 @@ producto de manera efectiva.
 Let's Work Together (LWT) LLC tiene un nuevo concepto de producto aprobado para su 
 desarrollo y lanzamiento.
 
+![image](https://github.com/user-attachments/assets/46c8f090-b106-4643-bfac-06129b68b4b0)
+
