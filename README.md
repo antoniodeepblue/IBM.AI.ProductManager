@@ -2,6 +2,7 @@
 ## Gestión de productos Desarrollo y entrega de un nuevo producto
  
 ### Let's Work Together (LWT) LLC 
+![image](https://github.com/user-attachments/assets/6b93918f-6f53-4b04-bd43-e2f772349473)
 
 #### Resumen final del proyecto  
 Let's Work Together (LWT) LLC tiene un nuevo producto Concepto aprobado para su desarrollo y 
